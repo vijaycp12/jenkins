@@ -12,7 +12,7 @@ public class GradeCalculator
 		} 
 	public static boolean isPass(double average)
 	{ 
-		return average >= 41.0; 
+		return average >= 42.0; 
 		} 
 	public static void main(String[] args)
 	{ 
